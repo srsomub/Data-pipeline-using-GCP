@@ -1,0 +1,8 @@
+{
+    "BigQuery Schema": [
+        {"name": "dropoff_location_id", "type": "STRING"},
+        {"name": "dropoff_latitude", "type": "STRING"},
+        {"name": "dropoff_longitude", "type": "STRING"}
+    ]
+}
+ 

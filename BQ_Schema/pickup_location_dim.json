@@ -1,0 +1,8 @@
+{
+    "BigQuery Schema": [
+        {"name": "pickup_location_id", "type": "STRING"},
+        {"name": "pickup_latitude", "type": "STRING"},
+        {"name": "pickup_longitude", "type": "STRING"}
+    ]
+}
+ 

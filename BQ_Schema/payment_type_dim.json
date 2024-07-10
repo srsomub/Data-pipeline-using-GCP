@@ -1,0 +1,9 @@
+
+{
+    "BigQuery Schema": [
+        {"name": "payment_type_id", "type": "STRING"},
+        {"name": "payment_type", "type": "STRING"},
+        {"name": "payment_type_name", "type": "STRING"}
+    ]
+}
+ 

@@ -1,0 +1,21 @@
+{
+  "BigQuery Schema": [
+    {"name": "trip_id", "type": "STRING"},
+    {"name": "VendorID", "type": "STRING"},
+    {"name": "datetime_id", "type": "STRING"},
+    {"name": "passenger_count_id", "type": "STRING"},
+    {"name": "trip_distance_id", "type": "STRING"},
+    {"name": "rate_code_id", "type": "STRING"},
+    {"name": "store_and_fwd_flag", "type": "STRING"},
+    {"name": "pickup_location_id", "type": "STRING"},
+    {"name": "dropoff_location_id", "type": "STRING"},
+    {"name": "payment_type_id", "type": "STRING"},
+    {"name": "fare_amount", "type": "STRING"},
+    {"name": "extra", "type": "STRING"},
+    {"name": "mta_tax", "type": "STRING"},
+    {"name": "tip_amount", "type": "STRING"},
+    {"name": "tolls_amount", "type": "STRING"},
+    {"name": "improvement_surcharge", "type": "STRING"},
+    {"name": "total_amount", "type": "STRING"}
+  ]
+}

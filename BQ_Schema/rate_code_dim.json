@@ -1,0 +1,9 @@
+
+{
+    "BigQuery Schema": [
+        {"name": "rate_code_id", "type": "STRING"},
+        {"name": "RatecodeID", "type": "STRING"},
+        {"name": "rate_code_name", "type": "STRING"}
+    ]
+}
+ 

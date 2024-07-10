@@ -1,0 +1,6 @@
+{
+    "BigQuery Schema": [
+        {"name": "passenger_count_id", "type": "STRING"},
+        {"name": "passenger_count", "type": "STRING"}
+    ]
+}

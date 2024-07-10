@@ -1,0 +1,19 @@
+{
+    "BigQuery Schema": [
+    {"name": "datetime_id", "type": "STRING"},
+    {"name": "tpep_pickup_datetime", "type": "STRING"},
+    {"name": "pick_hour", "type": "STRING"},
+    {"name": "pick_day", "type": "STRING"},
+    {"name": "pick_month", "type": "STRING"},
+    {"name": "pick_year", "type": "STRING"},
+    {"name": "pick_weekday", "type": "STRING"},
+    {"name": "tpep_dropoff_datetime", "type": "STRING"},
+    {"name": "drop_hour", "type": "STRING"},
+    {"name": "drop_day", "type": "STRING"},
+    {"name": "drop_month", "type": "STRING"},
+    {"name": "drop_year", "type": "STRING"},
+    {"name": "drop_weekday", "type": "STRING"}
+  ]
+
+}
+  

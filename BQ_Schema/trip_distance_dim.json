@@ -1,0 +1,6 @@
+{
+    "BigQuery Schema": [
+        {"name": "trip_distance_id", "type": "STRING"},
+        {"name": "trip_distance", "type": "STRING"}
+    ]
+}  
