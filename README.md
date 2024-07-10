@@ -1,4 +1,4 @@
-# Building a Data Pipeline and Data Analysis project with Google Cloud Services
+# Building a Data Pipeline and Data Analysis project with Google Cloud
 
 In the world of data engineering, the journey from data retrieval to insightful visualization is an adventure filled with challenges and rewards. In this guide, we’ll walk through the intricate steps of constructing a comprehensive Taxi driver data pipeline using Google Cloud services. From retrieving data via the TLC trip API to crafting a dynamic Looker Studio dashboard, each phase contributes to the seamless flow of data for analysis and visualization.
 
