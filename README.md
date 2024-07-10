@@ -4,7 +4,7 @@ In the world of data engineering, the journey from data retrieval to insightful 
 
 ### Architecture
 
-![Architecture](https://github.com/vishal-bulbule/cricket-stat-data-engineering-project/blob/master/Architecture.png)
+![Architecture](https://github.com/srsomub/Data-pipeline-using-GCP/blob/986dbc7e497135a7f36af9d2381960c388005e35/architecture.jpg)
 
 ### Data Retrieval with Python and Cricbuzz API
 The foundation of our project begins with Python’s prowess in interfacing with APIs. We’ll delve into the methods of fetching cricket statistics from the Cricbuzz API, harnessing the power of Python to gather the required data efficiently.
