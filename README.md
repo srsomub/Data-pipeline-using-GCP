@@ -34,7 +34,7 @@ More info about dataset can be found here:
 <img src="data_model.jpeg">
  
 ### Looker Dashboard 
-url- https://lookerstudio.google.com/reporting/a564729f-0553-4b67-8786-c3711500fc90/page/NMtnD
+https://lookerstudio.google.com/reporting/a564729f-0553-4b67-8786-c3711500fc90/page/NMtnD
 
 The end goal of the project is to build a Looker dashboard, we’ll explore the potential of BigQuery as a data source for Looker Studio. This dashboard will serve as the visualization hub, enabling insightful analysis based on the data loaded from our pipeline.
 ![Looker](https://github.com/srsomub/Data-pipeline-using-GCP/blob/main/Data_Analytics_Looker.jpg)
