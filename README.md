@@ -1,10 +1,36 @@
 # Building a Cricket Statistics Pipeline with Google Cloud Services
 
-In the world of data engineering, the journey from data retrieval to insightful visualization is an adventure filled with challenges and rewards. In this guide, we’ll walk through the intricate steps of constructing a comprehensive cricket statistics pipeline using Google Cloud services. From retrieving data via the Cricbuzz API to crafting a dynamic Looker Studio dashboard, each phase contributes to the seamless flow of data for analysis and visualization.
+In the world of data engineering, the journey from data retrieval to insightful visualization is an adventure filled with challenges and rewards. In this guide, we’ll walk through the intricate steps of constructing a comprehensive Taxi driver data pipeline using Google Cloud services. From retrieving data via the TLC trip API to crafting a dynamic Looker Studio dashboard, each phase contributes to the seamless flow of data for analysis and visualization.
 
 ### Architecture
 
 ![Architecture](https://github.com/srsomub/Data-pipeline-using-GCP/blob/986dbc7e497135a7f36af9d2381960c388005e35/architecture.jpg)
+
+## Technology Used
+- Programming Language - Python
+- API - TLC trip record
+- 
+Google Cloud Platform
+1. Airflow on Cloud composer
+2. Google Storage
+3. Cloud Function
+4. Dataflow
+5. BigQuery
+6. Looker Studio
+
+
+## Dataset Used
+TLC Trip Record Data
+Yellow and green taxi trip records include fields capturing pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. 
+
+Here is the dataset used - https://github.com/darshilparmar/uber-etl-pipeline-data-engineering-project/blob/main/data/uber_data.csv
+
+More info about dataset can be found here:
+1. Website - https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+2. Data Dictionary - https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
+
+## Data Model
+<img src="data_model.jpeg">
 
 ### Data Retrieval with Python and Cricbuzz API
 The foundation of our project begins with Python’s prowess in interfacing with APIs. We’ll delve into the methods of fetching cricket statistics from the Cricbuzz API, harnessing the power of Python to gather the required data efficiently.
